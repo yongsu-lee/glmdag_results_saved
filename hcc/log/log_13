@@ -1,0 +1,43 @@
+000 (226248.042.000) 2021-11-16 11:06:07 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_1147_5337>
+...
+040 (226248.042.000) 2021-11-16 11:08:23 Started transferring input files
+	Transferring to host: <128.105.245.83:9618?addrs=128.105.245.83-9618&alias=e283.chtc.wisc.edu&noUDP&sock=slot1_4_25052_2674_91028>
+...
+040 (226248.042.000) 2021-11-16 11:08:46 Finished transferring input files
+...
+001 (226248.042.000) 2021-11-16 11:08:47 Job executing on host: <128.105.245.83:9618?addrs=128.105.245.83-9618&alias=e283.chtc.wisc.edu&noUDP&sock=startd_2349_cc0e>
+...
+006 (226248.042.000) 2021-11-16 11:08:56 Image size of job updated: 184548
+	177  -  MemoryUsage of job (MB)
+	181200  -  ResidentSetSize of job (KB)
+...
+006 (226248.042.000) 2021-11-16 11:13:57 Image size of job updated: 1318272
+	275  -  MemoryUsage of job (MB)
+	281180  -  ResidentSetSize of job (KB)
+...
+006 (226248.042.000) 2021-11-16 11:18:57 Image size of job updated: 1318272
+	275  -  MemoryUsage of job (MB)
+	281188  -  ResidentSetSize of job (KB)
+...
+040 (226248.042.000) 2021-11-16 11:50:10 Started transferring output files
+...
+040 (226248.042.000) 2021-11-16 11:50:10 Finished transferring output files
+...
+005 (226248.042.000) 2021-11-16 11:50:10 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:39:38, Sys 0 00:00:17  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:39:38, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	6140  -  Run Bytes Sent By Job
+	38071624  -  Run Bytes Received By Job
+	6140  -  Total Bytes Sent By Job
+	38071624  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      1.00        1         1 
+	   Disk (KB)            : 313026     1048576   1337093 
+	   IoHeavy              :                            0 
+	   Memory (MB)          :    275        1024      1024 
+
+	Job terminated of its own accord at 2021-11-16T17:50:10Z with exit-code 0.
+...

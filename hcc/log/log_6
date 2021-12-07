@@ -1,0 +1,39 @@
+000 (226248.035.000) 2021-11-16 11:06:07 Job submitted from host: <128.104.100.148:9618?addrs=128.104.100.148-9618+[2607-f388-107c-501-216-3eff-feb2-bc11]-9618&alias=learn.chtc.wisc.edu&noUDP&sock=schedd_1147_5337>
+...
+040 (226248.035.000) 2021-11-16 11:08:21 Started transferring input files
+	Transferring to host: <128.104.58.117:9618?addrs=128.104.58.117-9618+[2607-f388-1086-0-62eb-69ff-feed-f7a2]-9618&alias=e477.chtc.wisc.edu&noUDP&sock=slot1_4_15893_ce5f_83979>
+...
+040 (226248.035.000) 2021-11-16 11:08:36 Finished transferring input files
+...
+001 (226248.035.000) 2021-11-16 11:08:37 Job executing on host: <128.104.58.117:9618?addrs=128.104.58.117-9618+[2607-f388-1086-0-62eb-69ff-feed-f7a2]-9618&alias=e477.chtc.wisc.edu&noUDP&sock=startd_1899_2270>
+...
+006 (226248.035.000) 2021-11-16 11:08:46 Image size of job updated: 204284
+	194  -  MemoryUsage of job (MB)
+	198476  -  ResidentSetSize of job (KB)
+...
+006 (226248.035.000) 2021-11-16 11:13:46 Image size of job updated: 1162512
+	275  -  MemoryUsage of job (MB)
+	280808  -  ResidentSetSize of job (KB)
+...
+040 (226248.035.000) 2021-11-16 12:02:43 Started transferring output files
+...
+040 (226248.035.000) 2021-11-16 12:02:43 Finished transferring output files
+...
+005 (226248.035.000) 2021-11-16 12:02:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:53:32, Sys 0 00:00:14  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:53:32, Sys 0 00:00:14  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	8266  -  Run Bytes Sent By Job
+	38071624  -  Run Bytes Received By Job
+	8266  -  Total Bytes Sent By Job
+	38071624  -  Total Bytes Received By Job
+	Partitionable Resources :     Usage  Request Allocated 
+	   Cpus                 :      0.98        1         1 
+	   Disk (KB)            : 313028     1048576   1346358 
+	   IoHeavy              :                            0 
+	   Memory (MB)          :    275        1024      1024 
+
+	Job terminated of its own accord at 2021-11-16T18:02:43Z with exit-code 0.
+...

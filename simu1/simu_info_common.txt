@@ -1,0 +1,2 @@
+simu_case seed_para  n_multi n_conti n_ordin n_lams path_par 
+"simu1"      100         30      0       0      30       F

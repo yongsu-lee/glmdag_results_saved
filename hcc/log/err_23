@@ -1,0 +1,97 @@
+Loading required package: VGAM
+Loading required package: stats4
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: igraph
+
+Attaching package: 'igraph'
+
+The following objects are masked from 'package:stats':
+
+    decompose, spectrum
+
+The following object is masked from 'package:base':
+
+    union
+
+Loading required package: Rcpp
+Loading required package: RcppArmadillo
+Loading required package: lbfgs
+Loading required package: expm
+
+Attaching package: 'expm'
+
+The following object is masked from 'package:Matrix':
+
+    expm
+
+Loading required package: deal
+Loading required package: nnet
+Loading required package: discretecdAlgorithm
+Loading required package: sparsebn
+Loading required package: sparsebnUtils
+
+Attaching package: 'sparsebnUtils'
+
+The following object is masked from 'package:VGAM':
+
+    is.zero
+
+Loading required package: ccdrAlgorithm
+
+sparsebn v0.1, Copyright (c) 2016-2020
+	Bryon Aragam, University of Chicago
+	Jiaying Gu, University of California, Los Angeles
+	Dacheng Zhang, University of California, Los Angeles
+	Qing Zhou, University of California, Los Angeles
+	Fei Fu
+
+Please cite our work! Type citation("sparsebn") for details.
+---> Bugs? Please report any bugs at https://github.com/itsrainingdata/sparsebn/issues.
+
+Loading required package: bnstruct
+Loading required package: bitops
+
+Attaching package: 'bitops'
+
+The following object is masked from 'package:expm':
+
+    %^%
+
+The following object is masked from 'package:Matrix':
+
+    %&%
+
+
+Attaching package: 'bnstruct'
+
+The following object is masked from 'package:sparsebnUtils':
+
+    num.nodes
+
+Loading required package: bnlearn
+
+Attaching package: 'bnlearn'
+
+The following objects are masked from 'package:bnstruct':
+
+    impute, read.bif, read.dsc, read.net, shd, write.dsc
+
+The following object is masked from 'package:sparsebnUtils':
+
+    random.graph
+
+The following objects are masked from 'package:deal':
+
+    modelstring, nodes, nodes<-, score
+
+The following objects are masked from 'package:igraph':
+
+    as.igraph, compare, degree, subgraph
+
+trying URL 'https://archive.ics.uci.edu/ml/machine-learning-databases/00423/hcc-survival.zip'
+Content type 'application/x-httpd-php' length 12260 bytes (11 KB)
+==================================================
+downloaded 11 KB
+
+'types_by_node' is not provided. 'types_by_node' will be determined based on str(data_input) information.
